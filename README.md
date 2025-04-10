@@ -1,2 +1,2 @@
 # Gerenciamento-tempo-leitura
-API Rest para o gerenciamento do tempo de leitura de livros 
+API Restful para o gerenciamento do tempo de leitura de livros 
